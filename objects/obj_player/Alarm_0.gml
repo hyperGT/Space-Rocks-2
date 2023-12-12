@@ -1,0 +1,8 @@
+/// @description Temporizador de colisão
+
+
+
+
+
+
+
